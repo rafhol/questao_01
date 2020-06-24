@@ -8,8 +8,12 @@ Foi escolhida essa solução, devido a dificuldade de se saber em que momento do
 Variáveis:
 
 DIR_SCRIPTS= "diretório do script"
+
 DIR_LOG= "diretório a ser gravado o  log"
+
 DIR_FTP_APP= "diretório de recebimento da versão para deploy"
+
 DIR_APP= "diretório da aplicação"
+
 ARQ_APP= "nome do arquivo .jar"
 
